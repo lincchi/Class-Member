@@ -1,0 +1,11 @@
+I:\College\Semester 2\Pemrograman\LatihanMethod\LatihanMethod\bin\Debug\netcoreapp3.1\LatihanMethod.exe
+I:\College\Semester 2\Pemrograman\LatihanMethod\LatihanMethod\bin\Debug\netcoreapp3.1\LatihanMethod.deps.json
+I:\College\Semester 2\Pemrograman\LatihanMethod\LatihanMethod\bin\Debug\netcoreapp3.1\LatihanMethod.runtimeconfig.json
+I:\College\Semester 2\Pemrograman\LatihanMethod\LatihanMethod\bin\Debug\netcoreapp3.1\LatihanMethod.runtimeconfig.dev.json
+I:\College\Semester 2\Pemrograman\LatihanMethod\LatihanMethod\bin\Debug\netcoreapp3.1\LatihanMethod.dll
+I:\College\Semester 2\Pemrograman\LatihanMethod\LatihanMethod\bin\Debug\netcoreapp3.1\LatihanMethod.pdb
+I:\College\Semester 2\Pemrograman\LatihanMethod\LatihanMethod\obj\Debug\netcoreapp3.1\LatihanMethod.csprojAssemblyReference.cache
+I:\College\Semester 2\Pemrograman\LatihanMethod\LatihanMethod\obj\Debug\netcoreapp3.1\LatihanMethod.AssemblyInfoInputs.cache
+I:\College\Semester 2\Pemrograman\LatihanMethod\LatihanMethod\obj\Debug\netcoreapp3.1\LatihanMethod.AssemblyInfo.cs
+I:\College\Semester 2\Pemrograman\LatihanMethod\LatihanMethod\obj\Debug\netcoreapp3.1\LatihanMethod.dll
+I:\College\Semester 2\Pemrograman\LatihanMethod\LatihanMethod\obj\Debug\netcoreapp3.1\LatihanMethod.pdb

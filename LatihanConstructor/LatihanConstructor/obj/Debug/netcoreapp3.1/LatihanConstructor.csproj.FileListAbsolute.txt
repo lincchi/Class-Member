@@ -1,0 +1,11 @@
+I:\College\Semester 2\Pemrograman\LatihanConstructor\LatihanConstructor\bin\Debug\netcoreapp3.1\LatihanConstructor.exe
+I:\College\Semester 2\Pemrograman\LatihanConstructor\LatihanConstructor\bin\Debug\netcoreapp3.1\LatihanConstructor.deps.json
+I:\College\Semester 2\Pemrograman\LatihanConstructor\LatihanConstructor\bin\Debug\netcoreapp3.1\LatihanConstructor.runtimeconfig.json
+I:\College\Semester 2\Pemrograman\LatihanConstructor\LatihanConstructor\bin\Debug\netcoreapp3.1\LatihanConstructor.runtimeconfig.dev.json
+I:\College\Semester 2\Pemrograman\LatihanConstructor\LatihanConstructor\bin\Debug\netcoreapp3.1\LatihanConstructor.dll
+I:\College\Semester 2\Pemrograman\LatihanConstructor\LatihanConstructor\bin\Debug\netcoreapp3.1\LatihanConstructor.pdb
+I:\College\Semester 2\Pemrograman\LatihanConstructor\LatihanConstructor\obj\Debug\netcoreapp3.1\LatihanConstructor.csprojAssemblyReference.cache
+I:\College\Semester 2\Pemrograman\LatihanConstructor\LatihanConstructor\obj\Debug\netcoreapp3.1\LatihanConstructor.AssemblyInfoInputs.cache
+I:\College\Semester 2\Pemrograman\LatihanConstructor\LatihanConstructor\obj\Debug\netcoreapp3.1\LatihanConstructor.AssemblyInfo.cs
+I:\College\Semester 2\Pemrograman\LatihanConstructor\LatihanConstructor\obj\Debug\netcoreapp3.1\LatihanConstructor.dll
+I:\College\Semester 2\Pemrograman\LatihanConstructor\LatihanConstructor\obj\Debug\netcoreapp3.1\LatihanConstructor.pdb
